@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-725j-chemicals-in-the-environment-fate-and-transport-fall-2004/8239ad08266a9a99ae5a4f52c147ca61_PSet9_Solutions.pdf
 file_size: 132216
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
